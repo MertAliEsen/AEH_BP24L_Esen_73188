@@ -1,0 +1,9 @@
+File name: input.txt
+Total number of words: 7
+
+Number of occurrences of each word:
+test: 2
+asdf: 1
+ghjk: 1
+mert: 2
+merts: 1
