@@ -1,0 +1,2 @@
+file name sample_input.txt
+number of lines 3
