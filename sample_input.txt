@@ -1,0 +1,3 @@
+First line of example text file
+Second line of example text file
+Third line of example text file
